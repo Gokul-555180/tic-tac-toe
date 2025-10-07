@@ -2,6 +2,9 @@
 
 Simple Tic-Tac-Toe game built with React and Vite.
 
+[![workflow status](https://github.com/Gokul-555180/tic-tac-toe/actions/workflows/pages.yml/badge.svg)](https://github.com/Gokul-555180/tic-tac-toe/actions)
+[![Pages](https://github.com/Gokul-555180/tic-tac-toe/actions/workflows/pages.yml/badge.svg)](https://gokul-555180.github.io/tic-tac-toe/)
+
 How to run
 
 1. Install dependencies:
